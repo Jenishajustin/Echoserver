@@ -50,10 +50,11 @@ print(f"Received {data!r}")
 ```
 ## OUTPUT:
 #### server.py
-![server](https://github.com/user-attachments/assets/9af862ff-bb15-47c2-afc7-f6425b2b2d34)
+![server](https://github.com/user-attachments/assets/d696b372-d1ce-4778-80a6-99fff9fbef64)
+
 
 #### client.py
-![client](https://github.com/user-attachments/assets/4d64f060-4759-44e4-9966-2e5f3e980c22)
+![client](https://github.com/user-attachments/assets/14c35fef-840e-48b4-b916-501fdb73acd5)
 
 ## RESULT:
 The program is executed successfully
